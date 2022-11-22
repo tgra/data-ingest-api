@@ -30,4 +30,5 @@ https://www.postman.com/
 # Video demo
 [![Watch the video](https://img.youtube.com/vi/SsksXTEZpf0/maxresdefault.jpg)](https://youtu.be/SsksXTEZpf0)
 
-
+# SQL data file
+SQL export file including database schema and table data, available at [sql data file](sql/schema_data.sql) 
