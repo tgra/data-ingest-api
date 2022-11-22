@@ -27,6 +27,7 @@ curl --form file='@datafile.txt' http://localhost:8080/upload --header "Accept:t
 Using local install of postman
 https://www.postman.com/
 
-
+# Video demo
+[![Watch the video](https://img.youtube.com/vi/SsksXTEZpf0/maxresdefault.jpg)](https://youtu.be/SsksXTEZpf0)
 
 
