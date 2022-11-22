@@ -32,3 +32,8 @@ https://www.postman.com/
 
 # SQL data file
 SQL export file including database schema and table data, available at [sql data file](sql/schema_data.sql) 
+
+# Database data export 
+Data export from MySQL company table:
+-  [csv data file](data/companies.csv)
+-  [json data file](data/companies.json)  
